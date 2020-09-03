@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-コピー
-testtest
-=======
-コピーtesttest
->>>>>>> ffc621116edf3c3914208f19d3d362df1da6f778
+サンプルだよ
